@@ -1,0 +1,15 @@
+# dotenv environment variable files
+.env
+
+# Binaries for programs and plugins
+*.exe
+*.so
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# File for testing
+test_.go
